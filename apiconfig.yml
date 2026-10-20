@@ -1,0 +1,4 @@
+tmdb:
+  v3-url: https://api.themoviedb.org/3
+  v4-url: https://api.themoviedb.org/4
+  read-token: ${eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiI5MGI3M2I0YTA5MmExZTM1NTRkODJkYmVmZDgzZTU0MCIsIm5iZiI6MTc5MjUyMzAwOC4zNDA5OTk4LCJzdWIiOiI2YWQ3YmIwMGNjOTk1YWUzMWEwM2VhNzciLCJzY29wZXMiOlsiYXBpX3JlYWQiXSwidmVyc2lvbiI6MX0.1d5uPYk1S8kqKllTUsf8oqIxd52ysvFiUN6CRMVQ5vs}
